@@ -1,0 +1,46 @@
+/* Inserta tu código aqui */
+.primero
+{	width: 150px;
+	margin: 0;
+	padding: 0px;
+	position:relative;
+	
+
+}
+hr
+{
+	width: 80px;
+	height:3px;
+	background-color:black;
+	margin-left: 0px;
+
+}
+
+.contenedor
+{
+	margin-top:40px;
+	margin-left: 20px;
+	padding:0px;
+	width: 645px;
+	position:absolute;
+	display:inline-block;
+}
+
+.imagen
+
+{
+	height:200px;
+	width: 200px;
+	position:relative;
+	display:inline;
+}
+.nombre
+{
+	position:absolute;
+	bottom:0;
+	right:0;
+	padding:5px;
+	font-family:arial;
+	font-size:12px;
+	color:white;
+}
